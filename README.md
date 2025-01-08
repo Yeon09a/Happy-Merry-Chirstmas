@@ -25,7 +25,7 @@ https://youtu.be/_6teQ0zphwo?feature=shared
   <br/><img width="50%" src="https://github.com/user-attachments/assets/de90dfb8-9958-41e2-a33d-0fcf05ae8feb"/><img width="50%" src="https://github.com/user-attachments/assets/8f6a61e3-de2d-4d4b-9434-663856b428df"/>
   <br/><img width="50%" src="https://github.com/user-attachments/assets/b200846a-47ac-41cd-94de-c3c002636cb3"/><img width="50%" src="https://github.com/user-attachments/assets/72d153bb-7e86-49db-8ab1-6b5731033f7a"/>
 * 해피 메리 크리스마스
-  * '해피 메리 크리스마'는 바닥의 버튼을 밟고 주변의 변화를 관찰하며 크리스마스를 즐기는 게임입니다. 버튼을 밟으면 이에 대한 인터랙션과 사운드가 발생하면서 크리스마스 경험을 제공합니다.
+  * '해피 메리 크리스마스'는 바닥의 버튼을 밟고 주변의 변화를 관찰하며 크리스마스를 즐기는 게임입니다. 버튼을 밟으면 이에 대한 인터랙션과 사운드가 발생하면서 크리스마스 경험을 제공합니다.
   <br/><img width="30%" src="https://github.com/user-attachments/assets/3e4fb50d-b8a0-4ff4-91a4-ff6bc24c1fb1"/><img width="30%" src="https://github.com/user-attachments/assets/2548b4a8-7a27-4d35-8653-80ecd14e0d27"/><img width="30%" src="https://github.com/user-attachments/assets/1d36e03d-2be2-4224-9bb6-74d7e92d0a2b"/>
   <br/><img width="50%" src="https://github.com/user-attachments/assets/54994e7e-6a9e-4a83-9e6b-f9b03050b67b"/><img width="50%" src="https://github.com/user-attachments/assets/d030d641-a8c8-4e95-b825-8372bc8308f5"/>
 
