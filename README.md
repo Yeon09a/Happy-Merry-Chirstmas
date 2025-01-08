@@ -18,7 +18,7 @@ https://youtu.be/_6teQ0zphwo?feature=shared
 ### 스테이지 소개
 * 신비로운 오로라
   * '신비로운 오로라'는 설산을 걸으면서 눈밭의 반짝이는 별조각을 찾아 밟는 게임입니다. 눈밭의 반짝이는 별조각을 찾아 밟으면 사방으로 반짝이는 파티클이 나타나 환상적인 느낌을 제공합니다.
-  * <img width="50%" src="https://github.com/user-attachments/assets/ba0b142f-5003-46fc-8de4-fe418bd7a790.png"/>
+  * <img width="50%" src="https://github.com/user-attachments/assets/ba0b142f-5003-46fc-8de4-fe418bd7a790"/>
 <br/>
 ## 프로젝트 개요
 ### 개발 기간
