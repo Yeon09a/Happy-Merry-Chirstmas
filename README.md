@@ -33,7 +33,7 @@ https://youtu.be/_6teQ0zphwo?feature=shared
 ### 개발 기간
 * 2024.09 - 2024.12 (약 3개월)
 ### 개발 환경
-* Unreal Engine 5 Blueprint
+* Unreal Engine 5.3.2 Blueprint
 * HOKUYO Sensor
 * Unity
 ### 개발 인원
