@@ -39,6 +39,8 @@ https://youtu.be/_6teQ0zphwo?feature=shared
 ### 개발 인원
 * 개발 2명
   * 김연아(Yeon09a)
+    * Notion : https://www.notion.so/Happy-Merry-Christmas-178b66b96b778020aa07f321896a6a83?pvs=4
+    * Github : https://github.com/Yeon09a
   * 임지민
 * 디자인 2명
   * 김윤아
@@ -46,4 +48,6 @@ https://youtu.be/_6teQ0zphwo?feature=shared
 * 기획 1명
   * 최보은
 ## 프로젝트 성과
+* SIGGRAPH Asia 2024 Tokyo 부스 내 프로젝트 소개 전시
+* 현대백화점 중동점 'Future Ground' 전시 참여
 
