@@ -40,17 +40,36 @@ https://youtu.be/_6teQ0zphwo?feature=shared
 * Unreal Engine 5.3.2 Blueprint
 * HOKUYO Sensor
 * Unity
-### 개발 인원
-* 개발 2명
-  * 김연아(Yeon09a)
-    * Notion : https://www.notion.so/Happy-Merry-Christmas-178b66b96b778020aa07f321896a6a83?pvs=4
-    * Github : https://github.com/Yeon09a
-  * 임지민
-* 디자인 2명
-  * 김윤아
-  * 김주아
-* 기획 1명
-  * 최보은
+### 수행업무
+프로젝트 팀원은 5명으로 그 중 개발에 참여하여 다음과 같은 부분을 담당하였습니다.
+* 센서 좌표 맵핑 시스템 개발 및 nDisplay 송출
+  * OSC 통신을 통해 전달된 공간 크기, 사용자 위치 좌표를 nDisplay의 크기와 위치에 알맞게 Unreal Engine에서 사용할 수 있게끔 변경
+    * OSC 통신 Message에 Event Binding
+  * 사용자 위치를 나타내는 사용자 Actor 객체 제작
+  * nDisplay와 Switchboard를 사용하여 nDisplay 송출
+* 게임 Level 설계
+  * 메모리 사용을 줄이고 디자이너와의 협업을 위해 사용자의 좌표를 구하는 Level과 스테이지 맵 Level, 스테이지 시스템 Level을 분리하여 제작
+    * 사용자의 좌표를 구하는 Level인 OSC Level의 경우 모든 스테이지에서 사용되므로 Persistent Level로 지정하여 제작
+    * 세 스테이지 모두 맵 Level과, 시스템 Level로 나누고 OSC Level의 서브 Level로 추가
+* 신비로운 오로라 스테이지 눈밭 초기화 제작
+  * ‘Interactive world’ 플러그인을 사용하여 눈밭 적용
+  * ‘Interactive world’ 플러그인의 작동 방식을 분석하여 Texture Render Target 2D를 Clear하여 눈밭 초기화 제작
+* 각 스테이지 게임 시스템 제작
+  * 사용자 Actor와 게임 내 사용 Actor의 충돌처리를 사용하여 게임 시스템 제작
+* 스테이지 이동 UI 및 시스템 제작
+  * 3D Widget을 사용하여 Fade In/Out 제작
+  * Event Dispatchers를 통해 각 스테이지 이동 Event 바인딩 제작
+    * OSC Level이  Persistent Level이므로 OSC Level의 레벨 블루프린트에서 스테이지 이동 Event를 제작
+    * 각 스테이지의 게임 시스템 블루프린트에서 스테이지 이동 Event를 사용할 수 있도록 Event Dispatchers를 사용하여 Event를 바인딩
+* 맵 오브젝트 제작
+  * 신비로운 오로라 스테이지 오로라 Actor 제작
+  * 신비로운 오로라 스테이지 사슴 애니메이션 적용
+  * Spline을 사용하여 빛나는 순간, 해피 메리 크리스마스 스테이지 양말 움직임 제작
+* 나이아가라 이펙트 수정 및 제작
+  * 신비로운 오로라 스테이지 유성, 불꽃놀이 나이아가라 이펙트 제작
+  * 신비로운 오로라 스테이지 별조각 생성, 별조각 발견 나이아가라 이펙트 에셋 커스터마이징
+  * 빛나는 순간 스테이지 전구 켜짐/꺼짐, 전구 Spline, 오너먼트 켜짐, 트리 별 나이아가라 이펙트 에셋 커스터마이징
+  * 해피 메리 크리스마스 스테이지 버튼 활성화, 불꽃놀이 이펙트 제작
 ## 프로젝트 성과
 * SIGGRAPH Asia 2024 Tokyo 부스 내 프로젝트 소개 전시
 * 현대백화점 중동점 'Future Ground' 전시 참여
