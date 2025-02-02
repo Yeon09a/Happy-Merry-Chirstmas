@@ -43,6 +43,7 @@ https://youtu.be/_6teQ0zphwo?feature=shared
 * Unity
 ### 수행업무
 프로젝트 팀원은 5명으로 그 중 개발에 참여하여 다음과 같은 부분을 담당하였습니다.<br/>
+
 센서 좌표 맵핑 시스템 개발 및 nDisplay 송출
 * OSC 통신을 통해 전달된 공간 크기, 사용자 위치 좌표를 nDisplay의 크기와 위치에 알맞게 Unreal Engine에서 사용할 수 있게끔 변경
   * OSC 통신 Message에 Event Binding
