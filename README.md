@@ -34,6 +34,7 @@ https://youtu.be/_6teQ0zphwo?feature=shared
   <br/><img width="50%" src="https://github.com/user-attachments/assets/54994e7e-6a9e-4a83-9e6b-f9b03050b67b"/><img width="50%" src="https://github.com/user-attachments/assets/d030d641-a8c8-4e95-b825-8372bc8308f5"/>
 
 ## 프로젝트 개요
+🔗자세한 내용은 Notion에서 확인하실 수 있으십니다.    [<img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>](https://www.notion.so/Happy-Merry-Christmas-178b66b96b778020aa07f321896a6a83?pvs=4)
 ### 개발 기간
 * 2024.09 - 2024.12 (약 3개월)
 ### 개발 환경
